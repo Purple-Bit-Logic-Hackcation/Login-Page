@@ -30,3 +30,8 @@ Due to covid-19  pandemic health crisis all schools and colleges are closed. Tea
 1. **CREATIVE CORNER**: We made this section to provide students a chance to participate in various competitions and thrive on their own terms and push their intelligence to its limit and grow.
 2. **CAREER GUIDE**: This section is to provide guidance to students about necessary steps that should be taken for heading them towards a bright future.
 It was really fun designing and drafting these sections of our project.
+3. **COVID-19 Glimpses**: for creating awareness about the Corona Virus Disease.
+4. **3-D CLASSROOMS**: A classroom which uses Augmented Reality for creating 3-D models so that students can better understand the concepts.
+
+## Technologies used :
+HTML, css, JavaScript, echo AR, j-query, GitHub pages
