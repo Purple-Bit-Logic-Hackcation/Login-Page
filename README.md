@@ -3,7 +3,7 @@
 #### [link for demo](https://youtu.be/JDW8dxhyUMo)
 
 ## Theme :
-#### It is a project based on EdTech. A man without education is like a buiding without Education. During this pandemic it has become difficult for many students get access to education. But this app is a complete solution to that problem which helps students to learn and grow. 👩‍🎓👨‍🎓 
+#### It is a project based on EdTech. A man without education is like a buiding without Foundation. During this pandemic it has become difficult for many students get access to education. But this app is a complete solution to that problem which helps students to learn and grow. 👩‍🎓👨‍🎓 
 
 ## Aim :
 #### To make learning more intresting.😊
